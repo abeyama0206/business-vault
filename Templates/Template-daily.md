@@ -1,0 +1,22 @@
+---
+tags:
+  - daily-note
+---
+
+# {{date:YYYY-MM-DD}} ({{date:ddd}})
+
+## 🧠 脳内吐き出し（インボックス）
+- [ ] 
+- 
+
+> 💡 *思いついたタスク、アイデア、メモ、コンテキストごちゃまぜで何でもここに書き殴る！*
+> *タスクには `📅2026-06-14`（やる日や期限）を入れておくとDataviewで回収できます。*
+
+
+---
+
+## 🔍 未完了タスクの回収（Dataview）
+```dataview
+TASK
+FROM #daily-note
+WHERE !completed
