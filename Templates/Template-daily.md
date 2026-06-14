@@ -5,7 +5,7 @@ tags:
 
 # {{date:YYYY-MM-DD}} ({{date:ddd}})
 
-## Inbox
+## 🧠 脳内吐き出し（インボックス）
 - [ ] 
 - 
 
